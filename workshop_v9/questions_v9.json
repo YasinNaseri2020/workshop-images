@@ -1,0 +1,388 @@
+{
+  "workshop": {
+    "id": "a16c3763",
+    "name": "Для ребенка",
+    "version": "9.0",
+    "created_at": "2026-04-18T20:18:07.405439",
+    "total_tickets": 2,
+    "total_questions": 10
+  },
+  "version": "2.0",
+  "totalTickets": 2,
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Билет 1: Счет 1-5 с морскими животными",
+      "questions": [
+        {
+          "uuid": "d79324945d02d328",
+          "id": 1,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-2",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_1.jpg",
+          "created_at": "2026-04-18T20:18:07.404826",
+          "version": 1
+        },
+        {
+          "uuid": "3fed93ed0fa703d1",
+          "id": 2,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-3",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_2.jpg",
+          "created_at": "2026-04-18T20:18:07.404911",
+          "version": 1
+        },
+        {
+          "uuid": "1fc055623086b4c0",
+          "id": 3,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-3",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_3.jpg",
+          "created_at": "2026-04-18T20:18:07.404977",
+          "version": 1
+        },
+        {
+          "uuid": "86ca17885f6e4924",
+          "id": 4,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correct": 4,
+          "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-4",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_4.jpg",
+          "created_at": "2026-04-18T20:18:07.405038",
+          "version": 1
+        },
+        {
+          "uuid": "5b3725cd3c71b672",
+          "id": 5,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-5",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_5.jpg",
+          "created_at": "2026-04-18T20:18:07.405109",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Билет 2: Счет 6-10 с морскими животными",
+      "questions": [
+        {
+          "uuid": "23a70208e2fecfa7",
+          "id": 1,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 6 животных: касатка, дельфин, медуза, краб, осьминог и морской конек. Здорово!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_1.jpg",
+          "created_at": "2026-04-18T20:18:07.405171",
+          "version": 1
+        },
+        {
+          "uuid": "5ba9eb369e3b2c82",
+          "id": 2,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 7 животных: горбатый кит, морская черепаха, кальмар, пингвин, рыба-клоун, акула и морж. Так держать!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_2.jpg",
+          "created_at": "2026-04-18T20:18:07.405232",
+          "version": 1
+        },
+        {
+          "uuid": "2ffce88806ddea96",
+          "id": 3,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 8 животных: мечехвост, омар, рыба-бабочка, акула-молот, китовая акула, медуза, дельфин и краб. Молодец!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_3.jpg",
+          "created_at": "2026-04-18T20:18:07.405292",
+          "version": 1
+        },
+        {
+          "uuid": "f242ebdf1ee88fbd",
+          "id": 4,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 9 животных: все, кого ты знаешь! Касатка, дельфин, горбатый кит, мечехвост, медуза, морская черепаха, морж, краб и осьминог. Отлично считаешь!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_4.jpg",
+          "created_at": "2026-04-18T20:18:07.405350",
+          "version": 1
+        },
+        {
+          "uuid": "337f88be95db3aef",
+          "id": 5,
+          "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит, мечехвост, медуза, морская черепаха, морж, краб, осьминог и рыба-клоун. Ты гений счета!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_5.jpg",
+          "created_at": "2026-04-18T20:18:07.405408",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "all_questions": [
+    {
+      "uuid": "d79324945d02d328",
+      "id": 1,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+      "documentRef": "Урок 1: Счет до 5",
+      "category": "Счет 1-2",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_1.jpg",
+      "created_at": "2026-04-18T20:18:07.404826",
+      "version": 1
+    },
+    {
+      "uuid": "3fed93ed0fa703d1",
+      "id": 2,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+      "documentRef": "Урок 1: Счет до 5",
+      "category": "Счет 1-3",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_2.jpg",
+      "created_at": "2026-04-18T20:18:07.404911",
+      "version": 1
+    },
+    {
+      "uuid": "1fc055623086b4c0",
+      "id": 3,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+      "documentRef": "Урок 1: Счет до 5",
+      "category": "Счет 1-3",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_3.jpg",
+      "created_at": "2026-04-18T20:18:07.404977",
+      "version": 1
+    },
+    {
+      "uuid": "86ca17885f6e4924",
+      "id": 4,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 4,
+      "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+      "documentRef": "Урок 1: Счет до 5",
+      "category": "Счет 1-4",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_4.jpg",
+      "created_at": "2026-04-18T20:18:07.405038",
+      "version": 1
+    },
+    {
+      "uuid": "5b3725cd3c71b672",
+      "id": 5,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+      "documentRef": "Урок 1: Счет до 5",
+      "category": "Счет 1-5",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/1_5.jpg",
+      "created_at": "2026-04-18T20:18:07.405109",
+      "version": 1
+    },
+    {
+      "uuid": "23a70208e2fecfa7",
+      "id": 1,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 6 животных: касатка, дельфин, медуза, краб, осьминог и морской конек. Здорово!",
+      "documentRef": "Урок 2: Счет до 10",
+      "category": "Счет 6-10",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_1.jpg",
+      "created_at": "2026-04-18T20:18:07.405171",
+      "version": 1
+    },
+    {
+      "uuid": "5ba9eb369e3b2c82",
+      "id": 2,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 7 животных: горбатый кит, морская черепаха, кальмар, пингвин, рыба-клоун, акула и морж. Так держать!",
+      "documentRef": "Урок 2: Счет до 10",
+      "category": "Счет 6-10",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_2.jpg",
+      "created_at": "2026-04-18T20:18:07.405232",
+      "version": 1
+    },
+    {
+      "uuid": "2ffce88806ddea96",
+      "id": 3,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 8 животных: мечехвост, омар, рыба-бабочка, акула-молот, китовая акула, медуза, дельфин и краб. Молодец!",
+      "documentRef": "Урок 2: Счет до 10",
+      "category": "Счет 6-10",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_3.jpg",
+      "created_at": "2026-04-18T20:18:07.405292",
+      "version": 1
+    },
+    {
+      "uuid": "f242ebdf1ee88fbd",
+      "id": 4,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 9 животных: все, кого ты знаешь! Касатка, дельфин, горбатый кит, мечехвост, медуза, морская черепаха, морж, краб и осьминог. Отлично считаешь!",
+      "documentRef": "Урок 2: Счет до 10",
+      "category": "Счет 6-10",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_4.jpg",
+      "created_at": "2026-04-18T20:18:07.405350",
+      "version": 1
+    },
+    {
+      "uuid": "337f88be95db3aef",
+      "id": 5,
+      "text": "Посчитай всех животных на картинке. Сколько животных ты видишь?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 3,
+      "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит, мечехвост, медуза, морская черепаха, морж, краб, осьминог и рыба-клоун. Ты гений счета!",
+      "documentRef": "Урок 2: Счет до 10",
+      "category": "Счет 6-10",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v9/images/2_5.jpg",
+      "created_at": "2026-04-18T20:18:07.405408",
+      "version": 1
+    }
+  ]
+}
