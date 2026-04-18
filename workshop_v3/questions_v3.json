@@ -28,7 +28,7 @@
           "explanation": "Осевая вибрация характеризуется перемещением инструмента вверх-вниз вдоль ствола скважины, что ощущается как подбрасывание долота над забоем.",
           "documentRef": "Памятка Правила буровика (стр. 7)",
           "category": "Вибрации",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/e7960156a7564174.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:50.201446",
           "version": 1
         },
@@ -46,7 +46,7 @@
           "explanation": "При крутильной вибрации (stickslip) необходимо снизить нагрузку на долото и увеличить скорость вращения, чтобы стабилизировать систему.",
           "documentRef": "Памятка Правила буровика (стр. 7)",
           "category": "Вибрации",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/6bba754ba5a0cc82.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:52.393726",
           "version": 1
         },
@@ -64,7 +64,7 @@
           "explanation": "Слом опорной секции ВЗД — типичное последствие осевой вибрации, а не поперечной. Поперечная вибрация приводит к уширению ствола, износу элементов КНБК и промыву труб.",
           "documentRef": "Памятка Правила буровика (стр. 7)",
           "category": "Вибрации",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/dc5d9f29e9856ea3.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:54.140425",
           "version": 1
         },
@@ -100,7 +100,7 @@
           "explanation": "При установке ванны гидростатическое давление должно превышать пластовое давление на всех этапах работ для предотвращения ГНВП.",
           "documentRef": "Памятка Правила буровика (стр. 12)",
           "category": "Наземное оборудование",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/d6ac72db2da9b67a.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:56.121194",
           "version": 1
         },
@@ -118,7 +118,7 @@
           "explanation": "При ремонтных работах менее 0,5 часа необходимо непрерывно расхаживать БК, не допуская остановок более 3 минут.",
           "documentRef": "Памятка Правила буровика (стр. 9)",
           "category": "Наземное оборудование",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/38ede1d5290dc775.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:58.042152",
           "version": 1
         },
@@ -154,7 +154,7 @@
           "explanation": "Значительное изменение нагрузки на долото и ощутимая вибрация СВП и пола буровой являются признаками осевой вибрации.",
           "documentRef": "Памятка Правила буровика (стр. 7)",
           "category": "Вибрации",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/db3923cbb4b2f775.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:46:59.961546",
           "version": 1
         },
@@ -172,7 +172,7 @@
           "explanation": "Если нет эффекта, необходимо оторваться от забоя и нагрузить долото при меньшей скорости вращения.",
           "documentRef": "Памятка Правила буровика (стр. 7)",
           "category": "Вибрации",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/874ada64c0ee535e.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:01.757805",
           "version": 1
         },
@@ -214,7 +214,7 @@
           "explanation": "При ремонте более 0,5 часа при отсутствии возможности вращения или расхаживания необходимо произвести промывку и поднимать КНБК в обсаженный ствол на аварийном приводе.",
           "documentRef": "Памятка Правила буровика (стр. 11)",
           "category": "СПО",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/b23b5067ee45ecae.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:03.784047",
           "version": 1
         },
@@ -250,7 +250,7 @@
           "explanation": "В случае повторяющейся затяжки спустить КНБК на 10м ниже осложненного интервала.",
           "documentRef": "Памятка Правила буровика (стр. 13)",
           "category": "Подъем с промывом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/66d37bffc3efb87a.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:05.704215",
           "version": 1
         },
@@ -268,7 +268,7 @@
           "explanation": "Подъем вести с периодическими опрессовками БИ через 200-300 метров.",
           "documentRef": "Памятка Правила буровика (стр. 13)",
           "category": "Подъем с промывом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8eb20a6579f7266f.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:07.629482",
           "version": 1
         },
@@ -286,7 +286,7 @@
           "explanation": "Не допускать затяжек более 50% от собственного веса колонны при движении вниз (СВМ).",
           "documentRef": "Памятка Правила буровика (стр. 13)",
           "category": "Подъем с промывом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/289c0032b242b3a8.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:09.744706",
           "version": 1
         },
@@ -304,7 +304,7 @@
           "explanation": "Если место промыва не обнаружено — произвести ревизию КНБК и последующий спуск с опрессовкой через 200-300 м.",
           "documentRef": "Памятка Правила буровика (стр. 14)",
           "category": "Подъем с промывом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/df5516c32efe6079.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:11.701482",
           "version": 1
         },
@@ -322,7 +322,7 @@
           "explanation": "Для очистки и осмотра резьбы/торцов замкового соединения использовать воздух, неметаллические щетки, ветошь. Металлические щетки не упомянуты и могут повредить резьбу.",
           "documentRef": "Памятка Правила буровика (стр. 14)",
           "category": "СПО",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/766424888c9223eb.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:13.622263",
           "version": 1
         },
@@ -340,7 +340,7 @@
           "explanation": "Поднять КНБК на аварийном приводе на максимальную длину от забоя или места проработки.",
           "documentRef": "Памятка Правила буровика (стр. 11)",
           "category": "Аварийный привод",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/7ce95af1e9a3501a.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:15.601867",
           "version": 1
         },
@@ -358,7 +358,7 @@
           "explanation": "При снижении величины затяжек ниже 50% от СВМ перейти на подъем без вращения и далее без циркуляции.",
           "documentRef": "Памятка Правила буровика (стр. 13)",
           "category": "Подъем с промывом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/503d151233d04f10.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:17.698105",
           "version": 1
         },
@@ -376,7 +376,7 @@
           "explanation": "Установить ППВ с целью перекрытия затрубного пространства в интервале КНБК + 5-10 м3 в трубном пространстве для осуществления подкачек.",
           "documentRef": "Памятка Правила буровика (стр. 12)",
           "category": "ППВ",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/bb51756ec759615d.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:19.668860",
           "version": 1
         }
@@ -400,7 +400,7 @@
           "explanation": "Если увеличение момента пропадает после возобновления движения колонны — это прямой признак дифференциального прихвата.",
           "documentRef": "Памятка Правила буровика (стр. 15)",
           "category": "Прихват дифференциальный",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/1698ff9f3675dfca.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:21.662987",
           "version": 1
         },
@@ -418,7 +418,7 @@
           "explanation": "При отрыве КНБК от забоя на ВЗД снижается реактивный момент и происходит разворот ВЗД с углом перекоса, что приводит к заклинке.",
           "documentRef": "Памятка Правила буровика (стр. 19)",
           "category": "Заклинивание КНБК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/e49bcad1f4cdedaf.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:24.022924",
           "version": 1
         },
@@ -436,7 +436,7 @@
           "explanation": "При наличии яса, удары производить только вниз, снизив производительность БН на 50%.",
           "documentRef": "Памятка Правила буровика (стр. 19)",
           "category": "Заклинивание КНБК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4d5a08eb64bba6a1.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:26.180774",
           "version": 1
         },
@@ -454,7 +454,7 @@
           "explanation": "Если перед возникновением прихвата колонна была в движении и давление не возросло — это наиболее вероятно заклинивание на участке со сложной геометрией ствола.",
           "documentRef": "Памятка Правила буровика (стр. 16)",
           "category": "Заклинивание",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/760ba8dae14406bc.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:28.467624",
           "version": 1
         },
@@ -490,7 +490,7 @@
           "explanation": "Необходимо произвести натяжку колонны, создавая растягивающую нагрузку НЕ БОЛЕЕ 15% свыше веса колонны при движении вверх.",
           "documentRef": "Памятка Правила буровика (стр. 22)",
           "category": "Заклинивание",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8ced826bf4746d58.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:30.810415",
           "version": 1
         },
@@ -508,7 +508,7 @@
           "explanation": "Запрещается создавать растягивающие нагрузки, превышающие 80% от предела текучести материала бурильных труб.",
           "documentRef": "Памятка Правила буровика (стр. 17)",
           "category": "Общие правила",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4a3e1513b36078f0.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:32.706770",
           "version": 1
         },
@@ -526,7 +526,7 @@
           "explanation": "Создание крутящего момента эффективнее растягивающей и сжимающей нагрузок.",
           "documentRef": "Памятка Правила буровика (стр. 17)",
           "category": "Общие правила",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/6acf5d5064f50442.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:34.563441",
           "version": 1
         },
@@ -544,7 +544,7 @@
           "explanation": "При отрицательном результате через 20-30 минут снять крутящий момент и ВОССТАНОВИТЬ циркуляцию с поэтапным выходом на максимальный расход.",
           "documentRef": "Памятка Правила буровика (стр. 20)",
           "category": "Прихват дифференциальный",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/129dfe22452d165b.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:36.471112",
           "version": 1
         },
@@ -562,7 +562,7 @@
           "explanation": "При собственном весе приложить момент, затем разгрузить колонну с последующей натяжкой до собственного веса, не снимая момента.",
           "documentRef": "Памятка Правила буровика (стр. 23)",
           "category": "Прихват дифференциальный",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/53c61a14c1137514.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:38.407042",
           "version": 1
         }
@@ -586,7 +586,7 @@
           "explanation": "Не превышать допустимую растягивающую нагрузку на самый слабый элемент оснастки/обсадную трубу по группе прочности, даже если выше находятся элементы с более высокой группой прочности.",
           "documentRef": "Памятка Правила буровика (стр. 24)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/eb4b145c2ceaa959.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:40.212589",
           "version": 1
         },
@@ -604,7 +604,7 @@
           "explanation": "При спуске хвостовика, как правило, самый слабый элемент — подвеска хвостовика.",
           "documentRef": "Памятка Правила буровика (стр. 24)",
           "category": "Хвостовик",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/2fed04a6d87ae6ab.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:42.129992",
           "version": 1
         },
@@ -622,7 +622,7 @@
           "explanation": "Вверх: не превышая собственного веса ОК/хвостовика, зафиксированного на предыдущей трубе/свече.",
           "documentRef": "Памятка Правила буровика (стр. 27)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/f1a35bb1ace0211b.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:43.996979",
           "version": 1
         },
@@ -640,7 +640,7 @@
           "explanation": "Вниз: не превышая разгрузки более 10% от веса при движении вниз на предыдущей трубе/свече.",
           "documentRef": "Памятка Правила буровика (стр. 28)",
           "category": "Прихват шламом ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/efc12508ec8f0c23.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:45.887970",
           "version": 1
         },
@@ -658,7 +658,7 @@
           "explanation": "Превышение нагрузок может привести к запрессовке сальника/пробки в затрубном пространстве с потерей возможности восстановления циркуляции.",
           "documentRef": "Памятка Правила буровика (стр. 28)",
           "category": "Прихват шламом ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/b6937ae84944b87a.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:47.773732",
           "version": 1
         },
@@ -676,7 +676,7 @@
           "explanation": "Вниз: ступенчато увеличивая нагрузку по 5-10т, не превышая допустимую разгрузку на самый слабый элемент/башмак.",
           "documentRef": "Памятка Правила буровика (стр. 27)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/5fc9f6c18bab6dfe.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:49.481809",
           "version": 1
         },
@@ -694,7 +694,7 @@
           "explanation": "ВРАЩЕНИЕ ОК ЗАПРЕЩЕНО, если иное не предусмотрено планом работ.",
           "documentRef": "Памятка Правила буровика (стр. 26, 28)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/3f5392275605cec4.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:51.440941",
           "version": 1
         },
@@ -712,7 +712,7 @@
           "explanation": "Постепенно (с шагом в 2-5 л/с), по мере стабилизации давления, увеличивать производительность.",
           "documentRef": "Памятка Правила буровика (стр. 25)",
           "category": "Циркуляция ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/82ee7575ad0dfee4.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:53.289093",
           "version": 1
         },
@@ -730,7 +730,7 @@
           "explanation": "В случае отсутствия хождения после восстановления циркуляции, продолжить по действиям при дифференциальном прихвате ОК/хвостовика.",
           "documentRef": "Памятка Правила буровика (стр. 30)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/1782077f2031a617.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:55.249785",
           "version": 1
         },
@@ -748,7 +748,7 @@
           "explanation": "Произвести натяжку колонны вверх, ступенчато увеличивая нагрузку по 5-10 т.",
           "documentRef": "Памятка Правила буровика (стр. 26)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4a1d3fe981e2fd6e.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:57.122134",
           "version": 1
         }
@@ -772,7 +772,7 @@
           "explanation": "Признаки: внезапное и хаотичное увеличение крутящего момента, осложненное хождение БК/ОК.",
           "documentRef": "Памятка Правила буровика (стр. 29)",
           "category": "Посторонний предмет",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/89b7573a38cf037c.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:47:59.002949",
           "version": 1
         },
@@ -790,7 +790,7 @@
           "explanation": "Для исключения варианта с падением постороннего предмета необходимо проверить состояние ПКР, ключей УМК, АКБ и просмотреть видеозапись.",
           "documentRef": "Памятка Правила буровика (стр. 29)",
           "category": "Посторонний предмет",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/91b1bf27faf5ee02.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:01.094580",
           "version": 1
         },
@@ -808,7 +808,7 @@
           "explanation": "Расхаживание и удары ясом в направлении, противоположном тому, в котором двигалась колонна до прихвата.",
           "documentRef": "Памятка Правила буровика (стр. 29)",
           "category": "Посторонний предмет",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/950a479be1fb2525.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:03.004309",
           "version": 1
         },
@@ -826,7 +826,7 @@
           "explanation": "После исключения промытого элемента опрессовать БИ на рабочем расходе БР, при отсутствии отклонений продолжить работы.",
           "documentRef": "Памятка Правила буровика (стр. 14)",
           "category": "Промыв",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/65adea920adc6f94.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:04.918773",
           "version": 1
         },
@@ -844,7 +844,7 @@
           "explanation": "Запрещается аварийное расхаживание вверх с приложением растягивающей нагрузки и крутящего момента одновременно. Перед натяжением пружина должна быть снята.",
           "documentRef": "Памятка Правила буровика (стр. 17)",
           "category": "Общие правила",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8ca0e070b433072f.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:06.889741",
           "version": 1
         },
@@ -862,7 +862,7 @@
           "explanation": "Максимально допустимая осевая сжимающая нагрузка не должна превышать 70% максимально допустимого значения, при котором напряжение достигает предела текучести.",
           "documentRef": "Памятка Правила буровика (стр. 23)",
           "category": "Общие правила",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/cd2263c80a9ae6b4.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:08.987831",
           "version": 1
         },
@@ -880,7 +880,7 @@
           "explanation": "Без согласования с буровым мастером или мастером по сложным работам (аварийным мастером).",
           "documentRef": "Памятка Правила буровика (стр. 17)",
           "category": "Общие правила",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/92e263838a784aad.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:10.893626",
           "version": 1
         },
@@ -898,7 +898,7 @@
           "explanation": "Допустимую разгрузку вниз указывать в плане работ на самый слабый элемент, согласно паспорту/сертификату на оборудование.",
           "documentRef": "Памятка Правила буровика (стр. 24)",
           "category": "Прихват ОК",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/90682f75c47dd429.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:12.823802",
           "version": 1
         },
@@ -916,7 +916,7 @@
           "explanation": "Создание растягивающей нагрузки свыше собственного веса с приложением крутящего момента ЗАПРЕЩЕНО.",
           "documentRef": "Памятка Правила буровика (стр. 21)",
           "category": "Прихват шламом",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/de5c58fb46d124d1.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:14.805358",
           "version": 1
         },
@@ -934,7 +934,7 @@
           "explanation": "Произвести промывку в объеме не менее объема затрубного пространства с замерами параметров БР и анализом шлама.",
           "documentRef": "Памятка Правила буровика (стр. 6)",
           "category": "Давление на манифольде",
-          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/afb5cdb8025f56c9.jpg",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
           "created_at": "2026-04-18T01:48:16.416917",
           "version": 1
         }
@@ -956,7 +956,7 @@
       "explanation": "Осевая вибрация характеризуется перемещением инструмента вверх-вниз вдоль ствола скважины, что ощущается как подбрасывание долота над забоем.",
       "documentRef": "Памятка Правила буровика (стр. 7)",
       "category": "Вибрации",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/e7960156a7564174.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:50.201446",
       "version": 1
     },
@@ -974,7 +974,7 @@
       "explanation": "При крутильной вибрации (stickslip) необходимо снизить нагрузку на долото и увеличить скорость вращения, чтобы стабилизировать систему.",
       "documentRef": "Памятка Правила буровика (стр. 7)",
       "category": "Вибрации",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/6bba754ba5a0cc82.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:52.393726",
       "version": 1
     },
@@ -992,7 +992,7 @@
       "explanation": "Слом опорной секции ВЗД — типичное последствие осевой вибрации, а не поперечной. Поперечная вибрация приводит к уширению ствола, износу элементов КНБК и промыву труб.",
       "documentRef": "Памятка Правила буровика (стр. 7)",
       "category": "Вибрации",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/dc5d9f29e9856ea3.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:54.140425",
       "version": 1
     },
@@ -1028,7 +1028,7 @@
       "explanation": "При установке ванны гидростатическое давление должно превышать пластовое давление на всех этапах работ для предотвращения ГНВП.",
       "documentRef": "Памятка Правила буровика (стр. 12)",
       "category": "Наземное оборудование",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/d6ac72db2da9b67a.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:56.121194",
       "version": 1
     },
@@ -1046,7 +1046,7 @@
       "explanation": "При ремонтных работах менее 0,5 часа необходимо непрерывно расхаживать БК, не допуская остановок более 3 минут.",
       "documentRef": "Памятка Правила буровика (стр. 9)",
       "category": "Наземное оборудование",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/38ede1d5290dc775.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:58.042152",
       "version": 1
     },
@@ -1082,7 +1082,7 @@
       "explanation": "Значительное изменение нагрузки на долото и ощутимая вибрация СВП и пола буровой являются признаками осевой вибрации.",
       "documentRef": "Памятка Правила буровика (стр. 7)",
       "category": "Вибрации",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/db3923cbb4b2f775.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:46:59.961546",
       "version": 1
     },
@@ -1100,7 +1100,7 @@
       "explanation": "Если нет эффекта, необходимо оторваться от забоя и нагрузить долото при меньшей скорости вращения.",
       "documentRef": "Памятка Правила буровика (стр. 7)",
       "category": "Вибрации",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/874ada64c0ee535e.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:01.757805",
       "version": 1
     },
@@ -1136,7 +1136,7 @@
       "explanation": "При ремонте более 0,5 часа при отсутствии возможности вращения или расхаживания необходимо произвести промывку и поднимать КНБК в обсаженный ствол на аварийном приводе.",
       "documentRef": "Памятка Правила буровика (стр. 11)",
       "category": "СПО",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/b23b5067ee45ecae.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:03.784047",
       "version": 1
     },
@@ -1172,7 +1172,7 @@
       "explanation": "В случае повторяющейся затяжки спустить КНБК на 10м ниже осложненного интервала.",
       "documentRef": "Памятка Правила буровика (стр. 13)",
       "category": "Подъем с промывом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/66d37bffc3efb87a.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:05.704215",
       "version": 1
     },
@@ -1190,7 +1190,7 @@
       "explanation": "Подъем вести с периодическими опрессовками БИ через 200-300 метров.",
       "documentRef": "Памятка Правила буровика (стр. 13)",
       "category": "Подъем с промывом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8eb20a6579f7266f.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:07.629482",
       "version": 1
     },
@@ -1208,7 +1208,7 @@
       "explanation": "Не допускать затяжек более 50% от собственного веса колонны при движении вниз (СВМ).",
       "documentRef": "Памятка Правила буровика (стр. 13)",
       "category": "Подъем с промывом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/289c0032b242b3a8.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:09.744706",
       "version": 1
     },
@@ -1226,7 +1226,7 @@
       "explanation": "Если место промыва не обнаружено — произвести ревизию КНБК и последующий спуск с опрессовкой через 200-300 м.",
       "documentRef": "Памятка Правила буровика (стр. 14)",
       "category": "Подъем с промывом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/df5516c32efe6079.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:11.701482",
       "version": 1
     },
@@ -1244,7 +1244,7 @@
       "explanation": "Для очистки и осмотра резьбы/торцов замкового соединения использовать воздух, неметаллические щетки, ветошь. Металлические щетки не упомянуты и могут повредить резьбу.",
       "documentRef": "Памятка Правила буровика (стр. 14)",
       "category": "СПО",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/766424888c9223eb.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:13.622263",
       "version": 1
     },
@@ -1262,7 +1262,7 @@
       "explanation": "Поднять КНБК на аварийном приводе на максимальную длину от забоя или места проработки.",
       "documentRef": "Памятка Правила буровика (стр. 11)",
       "category": "Аварийный привод",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/7ce95af1e9a3501a.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:15.601867",
       "version": 1
     },
@@ -1280,7 +1280,7 @@
       "explanation": "При снижении величины затяжек ниже 50% от СВМ перейти на подъем без вращения и далее без циркуляции.",
       "documentRef": "Памятка Правила буровика (стр. 13)",
       "category": "Подъем с промывом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/503d151233d04f10.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:17.698105",
       "version": 1
     },
@@ -1298,7 +1298,7 @@
       "explanation": "Установить ППВ с целью перекрытия затрубного пространства в интервале КНБК + 5-10 м3 в трубном пространстве для осуществления подкачек.",
       "documentRef": "Памятка Правила буровика (стр. 12)",
       "category": "ППВ",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/bb51756ec759615d.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:19.668860",
       "version": 1
     },
@@ -1316,7 +1316,7 @@
       "explanation": "Если увеличение момента пропадает после возобновления движения колонны — это прямой признак дифференциального прихвата.",
       "documentRef": "Памятка Правила буровика (стр. 15)",
       "category": "Прихват дифференциальный",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/1698ff9f3675dfca.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:21.662987",
       "version": 1
     },
@@ -1334,7 +1334,7 @@
       "explanation": "При отрыве КНБК от забоя на ВЗД снижается реактивный момент и происходит разворот ВЗД с углом перекоса, что приводит к заклинке.",
       "documentRef": "Памятка Правила буровика (стр. 19)",
       "category": "Заклинивание КНБК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/e49bcad1f4cdedaf.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:24.022924",
       "version": 1
     },
@@ -1352,7 +1352,7 @@
       "explanation": "При наличии яса, удары производить только вниз, снизив производительность БН на 50%.",
       "documentRef": "Памятка Правила буровика (стр. 19)",
       "category": "Заклинивание КНБК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4d5a08eb64bba6a1.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:26.180774",
       "version": 1
     },
@@ -1370,7 +1370,7 @@
       "explanation": "Если перед возникновением прихвата колонна была в движении и давление не возросло — это наиболее вероятно заклинивание на участке со сложной геометрией ствола.",
       "documentRef": "Памятка Правила буровика (стр. 16)",
       "category": "Заклинивание",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/760ba8dae14406bc.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:28.467624",
       "version": 1
     },
@@ -1406,7 +1406,7 @@
       "explanation": "Необходимо произвести натяжку колонны, создавая растягивающую нагрузку НЕ БОЛЕЕ 15% свыше веса колонны при движении вверх.",
       "documentRef": "Памятка Правила буровика (стр. 22)",
       "category": "Заклинивание",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8ced826bf4746d58.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:30.810415",
       "version": 1
     },
@@ -1424,7 +1424,7 @@
       "explanation": "Запрещается создавать растягивающие нагрузки, превышающие 80% от предела текучести материала бурильных труб.",
       "documentRef": "Памятка Правила буровика (стр. 17)",
       "category": "Общие правила",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4a3e1513b36078f0.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:32.706770",
       "version": 1
     },
@@ -1442,7 +1442,7 @@
       "explanation": "Создание крутящего момента эффективнее растягивающей и сжимающей нагрузок.",
       "documentRef": "Памятка Правила буровика (стр. 17)",
       "category": "Общие правила",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/6acf5d5064f50442.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:34.563441",
       "version": 1
     },
@@ -1460,7 +1460,7 @@
       "explanation": "При отрицательном результате через 20-30 минут снять крутящий момент и ВОССТАНОВИТЬ циркуляцию с поэтапным выходом на максимальный расход.",
       "documentRef": "Памятка Правила буровика (стр. 20)",
       "category": "Прихват дифференциальный",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/129dfe22452d165b.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:36.471112",
       "version": 1
     },
@@ -1478,7 +1478,7 @@
       "explanation": "При собственном весе приложить момент, затем разгрузить колонну с последующей натяжкой до собственного веса, не снимая момента.",
       "documentRef": "Памятка Правила буровика (стр. 23)",
       "category": "Прихват дифференциальный",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/53c61a14c1137514.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:38.407042",
       "version": 1
     },
@@ -1496,7 +1496,7 @@
       "explanation": "Не превышать допустимую растягивающую нагрузку на самый слабый элемент оснастки/обсадную трубу по группе прочности, даже если выше находятся элементы с более высокой группой прочности.",
       "documentRef": "Памятка Правила буровика (стр. 24)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/eb4b145c2ceaa959.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:40.212589",
       "version": 1
     },
@@ -1514,7 +1514,7 @@
       "explanation": "При спуске хвостовика, как правило, самый слабый элемент — подвеска хвостовика.",
       "documentRef": "Памятка Правила буровика (стр. 24)",
       "category": "Хвостовик",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/2fed04a6d87ae6ab.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:42.129992",
       "version": 1
     },
@@ -1532,7 +1532,7 @@
       "explanation": "Вверх: не превышая собственного веса ОК/хвостовика, зафиксированного на предыдущей трубе/свече.",
       "documentRef": "Памятка Правила буровика (стр. 27)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/f1a35bb1ace0211b.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:43.996979",
       "version": 1
     },
@@ -1550,7 +1550,7 @@
       "explanation": "Вниз: не превышая разгрузки более 10% от веса при движении вниз на предыдущей трубе/свече.",
       "documentRef": "Памятка Правила буровика (стр. 28)",
       "category": "Прихват шламом ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/efc12508ec8f0c23.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:45.887970",
       "version": 1
     },
@@ -1568,7 +1568,7 @@
       "explanation": "Превышение нагрузок может привести к запрессовке сальника/пробки в затрубном пространстве с потерей возможности восстановления циркуляции.",
       "documentRef": "Памятка Правила буровика (стр. 28)",
       "category": "Прихват шламом ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/b6937ae84944b87a.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:47.773732",
       "version": 1
     },
@@ -1586,7 +1586,7 @@
       "explanation": "Вниз: ступенчато увеличивая нагрузку по 5-10т, не превышая допустимую разгрузку на самый слабый элемент/башмак.",
       "documentRef": "Памятка Правила буровика (стр. 27)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/5fc9f6c18bab6dfe.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:49.481809",
       "version": 1
     },
@@ -1604,7 +1604,7 @@
       "explanation": "ВРАЩЕНИЕ ОК ЗАПРЕЩЕНО, если иное не предусмотрено планом работ.",
       "documentRef": "Памятка Правила буровика (стр. 26, 28)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/3f5392275605cec4.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:51.440941",
       "version": 1
     },
@@ -1622,7 +1622,7 @@
       "explanation": "Постепенно (с шагом в 2-5 л/с), по мере стабилизации давления, увеличивать производительность.",
       "documentRef": "Памятка Правила буровика (стр. 25)",
       "category": "Циркуляция ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/82ee7575ad0dfee4.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:53.289093",
       "version": 1
     },
@@ -1640,7 +1640,7 @@
       "explanation": "В случае отсутствия хождения после восстановления циркуляции, продолжить по действиям при дифференциальном прихвате ОК/хвостовика.",
       "documentRef": "Памятка Правила буровика (стр. 30)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/1782077f2031a617.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:55.249785",
       "version": 1
     },
@@ -1658,7 +1658,7 @@
       "explanation": "Произвести натяжку колонны вверх, ступенчато увеличивая нагрузку по 5-10 т.",
       "documentRef": "Памятка Правила буровика (стр. 26)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/4a1d3fe981e2fd6e.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:57.122134",
       "version": 1
     },
@@ -1676,7 +1676,7 @@
       "explanation": "Признаки: внезапное и хаотичное увеличение крутящего момента, осложненное хождение БК/ОК.",
       "documentRef": "Памятка Правила буровика (стр. 29)",
       "category": "Посторонний предмет",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/89b7573a38cf037c.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:47:59.002949",
       "version": 1
     },
@@ -1694,7 +1694,7 @@
       "explanation": "Для исключения варианта с падением постороннего предмета необходимо проверить состояние ПКР, ключей УМК, АКБ и просмотреть видеозапись.",
       "documentRef": "Памятка Правила буровика (стр. 29)",
       "category": "Посторонний предмет",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/91b1bf27faf5ee02.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:01.094580",
       "version": 1
     },
@@ -1712,7 +1712,7 @@
       "explanation": "Расхаживание и удары ясом в направлении, противоположном тому, в котором двигалась колонна до прихвата.",
       "documentRef": "Памятка Правила буровика (стр. 29)",
       "category": "Посторонний предмет",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/950a479be1fb2525.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:03.004309",
       "version": 1
     },
@@ -1730,7 +1730,7 @@
       "explanation": "После исключения промытого элемента опрессовать БИ на рабочем расходе БР, при отсутствии отклонений продолжить работы.",
       "documentRef": "Памятка Правила буровика (стр. 14)",
       "category": "Промыв",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/65adea920adc6f94.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:04.918773",
       "version": 1
     },
@@ -1748,7 +1748,7 @@
       "explanation": "Запрещается аварийное расхаживание вверх с приложением растягивающей нагрузки и крутящего момента одновременно. Перед натяжением пружина должна быть снята.",
       "documentRef": "Памятка Правила буровика (стр. 17)",
       "category": "Общие правила",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/8ca0e070b433072f.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:06.889741",
       "version": 1
     },
@@ -1766,7 +1766,7 @@
       "explanation": "Максимально допустимая осевая сжимающая нагрузка не должна превышать 70% максимально допустимого значения, при котором напряжение достигает предела текучести.",
       "documentRef": "Памятка Правила буровика (стр. 23)",
       "category": "Общие правила",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/cd2263c80a9ae6b4.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:08.987831",
       "version": 1
     },
@@ -1784,7 +1784,7 @@
       "explanation": "Без согласования с буровым мастером или мастером по сложным работам (аварийным мастером).",
       "documentRef": "Памятка Правила буровика (стр. 17)",
       "category": "Общие правила",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/92e263838a784aad.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:10.893626",
       "version": 1
     },
@@ -1802,7 +1802,7 @@
       "explanation": "Допустимую разгрузку вниз указывать в плане работ на самый слабый элемент, согласно паспорту/сертификату на оборудование.",
       "documentRef": "Памятка Правила буровика (стр. 24)",
       "category": "Прихват ОК",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/90682f75c47dd429.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:12.823802",
       "version": 1
     },
@@ -1820,7 +1820,7 @@
       "explanation": "Создание растягивающей нагрузки свыше собственного веса с приложением крутящего момента ЗАПРЕЩЕНО.",
       "documentRef": "Памятка Правила буровика (стр. 21)",
       "category": "Прихват шламом",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/de5c58fb46d124d1.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:14.805358",
       "version": 1
     },
@@ -1838,7 +1838,7 @@
       "explanation": "Произвести промывку в объеме не менее объема затрубного пространства с замерами параметров БР и анализом шлама.",
       "documentRef": "Памятка Правила буровика (стр. 6)",
       "category": "Давление на манифольде",
-      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/afb5cdb8025f56c9.jpg",
+      "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v3/images/10_10.jpg",
       "created_at": "2026-04-18T01:48:16.416917",
       "version": 1
     }
