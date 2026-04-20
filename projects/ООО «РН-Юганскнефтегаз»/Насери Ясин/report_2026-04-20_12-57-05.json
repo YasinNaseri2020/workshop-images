@@ -1,0 +1,891 @@
+{
+  "meta": {
+    "exportDate": "2026-04-20T09:57:05.892Z",
+    "appVersion": "2.0",
+    "deviceId": "U51C4694",
+    "userFullName": "Насери Ясин",
+    "projectName": "ООО «РН-Юганскнефтегаз»"
+  },
+  "workshop": {
+    "current": {
+      "workshop": {
+        "id": "8fb22cf9",
+        "name": "Для Сируса",
+        "version": "1.0",
+        "created_at": "2026-04-19T08:36:00.972902",
+        "total_tickets": 2,
+        "total_questions": 10
+      },
+      "version": "2.0",
+      "totalTickets": 2,
+      "tickets": [
+        {
+          "id": 1,
+          "title": "Билет 1: Счет 1-5 с морскими животными",
+          "questions": [
+            {
+              "uuid": "5df7f5b7eb525c48",
+              "id": 1,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-3",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_1.jpg",
+              "created_at": "2026-04-19T08:36:00.972284",
+              "version": 1
+            },
+            {
+              "uuid": "6d91fe03228d284f",
+              "id": 2,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-5",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_2.jpg",
+              "created_at": "2026-04-19T08:36:00.972425",
+              "version": 1
+            },
+            {
+              "uuid": "c305c7764520ae9d",
+              "id": 3,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct": 1,
+              "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-3",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_3.jpg",
+              "created_at": "2026-04-19T08:36:00.972490",
+              "version": 1
+            },
+            {
+              "uuid": "3f94cf7c17e913ab",
+              "id": 4,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "3",
+                "2",
+                "5"
+              ],
+              "correct": 0,
+              "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-4",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_4.jpg",
+              "created_at": "2026-04-19T08:36:00.972544",
+              "version": 1
+            },
+            {
+              "uuid": "a56c7ec94ac95b9b",
+              "id": 5,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "3",
+                "1",
+                "2"
+              ],
+              "correct": 3,
+              "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-2",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_5.jpg",
+              "created_at": "2026-04-19T08:36:00.972606",
+              "version": 1
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Билет 2: Счет 6-10 с морскими животными",
+          "questions": [
+            {
+              "uuid": "ba3031d9074822d0",
+              "id": 1,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 9 животных: все, кого ты знаешь! Дельфин, горбатый кит, медуза, осьминог, морж, морская черепаха, мечхвост, краб и касатка. Отлично считаешь!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_1.jpg",
+              "created_at": "2026-04-19T08:36:00.972660",
+              "version": 1
+            },
+            {
+              "uuid": "37648ec9014abc02",
+              "id": 2,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 7 животных: касатка, дельфин, осьминог, морской конек, опять осьминог, краб и медуза. Здорово!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_2.jpg",
+              "created_at": "2026-04-19T08:36:00.972714",
+              "version": 1
+            },
+            {
+              "uuid": "9688b930c1e84f1d",
+              "id": 3,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "8",
+                "10",
+                "9",
+                "11"
+              ],
+              "correct": 1,
+              "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит,  рыба-клоун, краб, морж, опять морж, мечехвост, медуза и морская черепаха. Ты гений счета!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_3.jpg",
+              "created_at": "2026-04-19T08:36:00.972767",
+              "version": 1
+            },
+            {
+              "uuid": "460637497ea53a25",
+              "id": 4,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "5",
+                "7",
+                "6"
+              ],
+              "correct": 3,
+              "explanation": "На картинке 6 животных: горбатый кит, морская черепаха, рыба-клоун, морж, дельфин и медуза. Здорово!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_4.jpg",
+              "created_at": "2026-04-19T08:36:00.972819",
+              "version": 1
+            },
+            {
+              "uuid": "0fdbb0019c3b4fef",
+              "id": 5,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 8 животных: рыба меч, омар, рыба-бабочка, китовая акула, дельфин, краб, опять китовая акула и медуза. Молодец!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_5.jpg",
+              "created_at": "2026-04-19T08:36:00.972869",
+              "version": 1
+            }
+          ]
+        }
+      ],
+      "all_questions": [
+        {
+          "uuid": "5df7f5b7eb525c48",
+          "id": 1,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-3",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_1.jpg",
+          "created_at": "2026-04-19T08:36:00.972284",
+          "version": 1
+        },
+        {
+          "uuid": "6d91fe03228d284f",
+          "id": 2,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-5",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_2.jpg",
+          "created_at": "2026-04-19T08:36:00.972425",
+          "version": 1
+        },
+        {
+          "uuid": "c305c7764520ae9d",
+          "id": 3,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "correct": 1,
+          "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-3",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_3.jpg",
+          "created_at": "2026-04-19T08:36:00.972490",
+          "version": 1
+        },
+        {
+          "uuid": "3f94cf7c17e913ab",
+          "id": 4,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+          ],
+          "correct": 0,
+          "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-4",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_4.jpg",
+          "created_at": "2026-04-19T08:36:00.972544",
+          "version": 1
+        },
+        {
+          "uuid": "a56c7ec94ac95b9b",
+          "id": 5,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "4",
+            "3",
+            "1",
+            "2"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+          "documentRef": "Урок 1: Счет до 5",
+          "category": "Счет 1-2",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_5.jpg",
+          "created_at": "2026-04-19T08:36:00.972606",
+          "version": 1
+        },
+        {
+          "uuid": "ba3031d9074822d0",
+          "id": 1,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 9 животных: все, кого ты знаешь! Дельфин, горбатый кит, медуза, осьминог, морж, морская черепаха, мечхвост, краб и касатка. Отлично считаешь!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_1.jpg",
+          "created_at": "2026-04-19T08:36:00.972660",
+          "version": 1
+        },
+        {
+          "uuid": "37648ec9014abc02",
+          "id": 2,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 7 животных: касатка, дельфин, осьминог, морской конек, опять осьминог, краб и медуза. Здорово!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_2.jpg",
+          "created_at": "2026-04-19T08:36:00.972714",
+          "version": 1
+        },
+        {
+          "uuid": "9688b930c1e84f1d",
+          "id": 3,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "8",
+            "10",
+            "9",
+            "11"
+          ],
+          "correct": 1,
+          "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит,  рыба-клоун, краб, морж, опять морж, мечехвост, медуза и морская черепаха. Ты гений счета!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_3.jpg",
+          "created_at": "2026-04-19T08:36:00.972767",
+          "version": 1
+        },
+        {
+          "uuid": "460637497ea53a25",
+          "id": 4,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "4",
+            "5",
+            "7",
+            "6"
+          ],
+          "correct": 3,
+          "explanation": "На картинке 6 животных: горбатый кит, морская черепаха, рыба-клоун, морж, дельфин и медуза. Здорово!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_4.jpg",
+          "created_at": "2026-04-19T08:36:00.972819",
+          "version": 1
+        },
+        {
+          "uuid": "0fdbb0019c3b4fef",
+          "id": 5,
+          "text": "Сколько морских обитателей на экране?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "correct": 2,
+          "explanation": "На картинке 8 животных: рыба меч, омар, рыба-бабочка, китовая акула, дельфин, краб, опять китовая акула и медуза. Молодец!",
+          "documentRef": "Урок 2: Счет до 10",
+          "category": "Счет 6-10",
+          "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_5.jpg",
+          "created_at": "2026-04-19T08:36:00.972869",
+          "version": 1
+        }
+      ]
+    },
+    "archives": [
+      {
+        "id": 1776673448985,
+        "date": "2026-04-20T08:24:08.985Z",
+        "fileName": "questions_v1.json",
+        "workshopId": "8fb22cf9",
+        "workshopName": "Для Сируса",
+        "workshopVersion": "1.0",
+        "totalTickets": 2,
+        "totalQuestions": 10,
+        "userNote": "",
+        "questions": {
+          "workshop": {
+            "id": "8fb22cf9",
+            "name": "Для Сируса",
+            "version": "1.0",
+            "created_at": "2026-04-19T08:36:00.972902",
+            "total_tickets": 2,
+            "total_questions": 10
+          },
+          "version": "2.0",
+          "totalTickets": 2,
+          "tickets": [
+            {
+              "id": 1,
+              "title": "Билет 1: Счет 1-5 с морскими животными",
+              "questions": [
+                {
+                  "uuid": "5df7f5b7eb525c48",
+                  "id": 1,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                  ],
+                  "correct": 2,
+                  "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+                  "documentRef": "Урок 1: Счет до 5",
+                  "category": "Счет 1-3",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_1.jpg",
+                  "created_at": "2026-04-19T08:36:00.972284",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/bd594c9730103cc5052f0817de0f8e1d.jpg"
+                },
+                {
+                  "uuid": "6d91fe03228d284f",
+                  "id": 2,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                  ],
+                  "correct": 2,
+                  "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+                  "documentRef": "Урок 1: Счет до 5",
+                  "category": "Счет 1-5",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_2.jpg",
+                  "created_at": "2026-04-19T08:36:00.972425",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/bf7d8069c1fa9b3efd62fd1924c0bc88.jpg"
+                },
+                {
+                  "uuid": "c305c7764520ae9d",
+                  "id": 3,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                  ],
+                  "correct": 1,
+                  "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+                  "documentRef": "Урок 1: Счет до 5",
+                  "category": "Счет 1-3",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_3.jpg",
+                  "created_at": "2026-04-19T08:36:00.972490",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/4720c31665712dec96fe4983d87bc7a4.jpg"
+                },
+                {
+                  "uuid": "3f94cf7c17e913ab",
+                  "id": 4,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "4",
+                    "3",
+                    "2",
+                    "5"
+                  ],
+                  "correct": 0,
+                  "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+                  "documentRef": "Урок 1: Счет до 5",
+                  "category": "Счет 1-4",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_4.jpg",
+                  "created_at": "2026-04-19T08:36:00.972544",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/e5d2fa6579983f267cd4dc395bb0a8b8.jpg"
+                },
+                {
+                  "uuid": "a56c7ec94ac95b9b",
+                  "id": 5,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "4",
+                    "3",
+                    "1",
+                    "2"
+                  ],
+                  "correct": 3,
+                  "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+                  "documentRef": "Урок 1: Счет до 5",
+                  "category": "Счет 1-2",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_5.jpg",
+                  "created_at": "2026-04-19T08:36:00.972606",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/d3a9cf534e093f5eaa10026aaf7cd83a.jpg"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "title": "Билет 2: Счет 6-10 с морскими животными",
+              "questions": [
+                {
+                  "uuid": "ba3031d9074822d0",
+                  "id": 1,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                  ],
+                  "correct": 2,
+                  "explanation": "На картинке 9 животных: все, кого ты знаешь! Дельфин, горбатый кит, медуза, осьминог, морж, морская черепаха, мечхвост, краб и касатка. Отлично считаешь!",
+                  "documentRef": "Урок 2: Счет до 10",
+                  "category": "Счет 6-10",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_1.jpg",
+                  "created_at": "2026-04-19T08:36:00.972660",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/074acb08b8e49e761ad3d8577b12cffe.jpg"
+                },
+                {
+                  "uuid": "37648ec9014abc02",
+                  "id": 2,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                  ],
+                  "correct": 2,
+                  "explanation": "На картинке 7 животных: касатка, дельфин, осьминог, морской конек, опять осьминог, краб и медуза. Здорово!",
+                  "documentRef": "Урок 2: Счет до 10",
+                  "category": "Счет 6-10",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_2.jpg",
+                  "created_at": "2026-04-19T08:36:00.972714",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/c53ca51843c201cf1b0d4256c8c1efd6.jpg"
+                },
+                {
+                  "uuid": "9688b930c1e84f1d",
+                  "id": 3,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "8",
+                    "10",
+                    "9",
+                    "11"
+                  ],
+                  "correct": 1,
+                  "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит,  рыба-клоун, краб, морж, опять морж, мечехвост, медуза и морская черепаха. Ты гений счета!",
+                  "documentRef": "Урок 2: Счет до 10",
+                  "category": "Счет 6-10",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_3.jpg",
+                  "created_at": "2026-04-19T08:36:00.972767",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/9c41228a4f80c72c1b7e962872985c50.jpg"
+                },
+                {
+                  "uuid": "460637497ea53a25",
+                  "id": 4,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "4",
+                    "5",
+                    "7",
+                    "6"
+                  ],
+                  "correct": 3,
+                  "explanation": "На картинке 6 животных: горбатый кит, морская черепаха, рыба-клоун, морж, дельфин и медуза. Здорово!",
+                  "documentRef": "Урок 2: Счет до 10",
+                  "category": "Счет 6-10",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_4.jpg",
+                  "created_at": "2026-04-19T08:36:00.972819",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/255b861569c758fa9e3e4f3e5705e721.jpg"
+                },
+                {
+                  "uuid": "0fdbb0019c3b4fef",
+                  "id": 5,
+                  "text": "Сколько морских обитателей на экране?",
+                  "options": [
+                    "6",
+                    "7",
+                    "8",
+                    "9"
+                  ],
+                  "correct": 2,
+                  "explanation": "На картинке 8 животных: рыба меч, омар, рыба-бабочка, китовая акула, дельфин, краб, опять китовая акула и медуза. Молодец!",
+                  "documentRef": "Урок 2: Счет до 10",
+                  "category": "Счет 6-10",
+                  "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_5.jpg",
+                  "created_at": "2026-04-19T08:36:00.972869",
+                  "version": 1,
+                  "image_local": "file:///data/user/10/host.exp.exponent/cache/images/9ad89638922918435e12027344dacf81.jpg"
+                }
+              ]
+            }
+          ],
+          "all_questions": [
+            {
+              "uuid": "5df7f5b7eb525c48",
+              "id": 1,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 3 животных: касатка, морская черепаха и краб. Отлично!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-3",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_1.jpg",
+              "created_at": "2026-04-19T08:36:00.972284",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/bd594c9730103cc5052f0817de0f8e1d.jpg"
+            },
+            {
+              "uuid": "6d91fe03228d284f",
+              "id": 2,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 5 животных: мечехвост, омар, морж, рыба-бабочка и акула-молот. Ты супер!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-5",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_2.jpg",
+              "created_at": "2026-04-19T08:36:00.972425",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/bf7d8069c1fa9b3efd62fd1924c0bc88.jpg"
+            },
+            {
+              "uuid": "c305c7764520ae9d",
+              "id": 3,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ],
+              "correct": 1,
+              "explanation": "На картинке 3 животных: осьминог, морской конек и рыба-клоун. Правильно!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-3",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_3.jpg",
+              "created_at": "2026-04-19T08:36:00.972490",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/4720c31665712dec96fe4983d87bc7a4.jpg"
+            },
+            {
+              "uuid": "3f94cf7c17e913ab",
+              "id": 4,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "3",
+                "2",
+                "5"
+              ],
+              "correct": 0,
+              "explanation": "На картинке 4 животных: горбатый кит, кальмар, пингвин и акула. Умница!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-4",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_4.jpg",
+              "created_at": "2026-04-19T08:36:00.972544",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/e5d2fa6579983f267cd4dc395bb0a8b8.jpg"
+            },
+            {
+              "uuid": "a56c7ec94ac95b9b",
+              "id": 5,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "3",
+                "1",
+                "2"
+              ],
+              "correct": 3,
+              "explanation": "На картинке 2 животных: дельфин и медуза. Молодец!",
+              "documentRef": "Урок 1: Счет до 5",
+              "category": "Счет 1-2",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/1_5.jpg",
+              "created_at": "2026-04-19T08:36:00.972606",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/d3a9cf534e093f5eaa10026aaf7cd83a.jpg"
+            },
+            {
+              "uuid": "ba3031d9074822d0",
+              "id": 1,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "7",
+                "8",
+                "9",
+                "10"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 9 животных: все, кого ты знаешь! Дельфин, горбатый кит, медуза, осьминог, морж, морская черепаха, мечхвост, краб и касатка. Отлично считаешь!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_1.jpg",
+              "created_at": "2026-04-19T08:36:00.972660",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/074acb08b8e49e761ad3d8577b12cffe.jpg"
+            },
+            {
+              "uuid": "37648ec9014abc02",
+              "id": 2,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 7 животных: касатка, дельфин, осьминог, морской конек, опять осьминог, краб и медуза. Здорово!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_2.jpg",
+              "created_at": "2026-04-19T08:36:00.972714",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/c53ca51843c201cf1b0d4256c8c1efd6.jpg"
+            },
+            {
+              "uuid": "9688b930c1e84f1d",
+              "id": 3,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "8",
+                "10",
+                "9",
+                "11"
+              ],
+              "correct": 1,
+              "explanation": "На картинке 10 животных! Полный набор: касатка, дельфин, горбатый кит,  рыба-клоун, краб, морж, опять морж, мечехвост, медуза и морская черепаха. Ты гений счета!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_3.jpg",
+              "created_at": "2026-04-19T08:36:00.972767",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/9c41228a4f80c72c1b7e962872985c50.jpg"
+            },
+            {
+              "uuid": "460637497ea53a25",
+              "id": 4,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "4",
+                "5",
+                "7",
+                "6"
+              ],
+              "correct": 3,
+              "explanation": "На картинке 6 животных: горбатый кит, морская черепаха, рыба-клоун, морж, дельфин и медуза. Здорово!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_4.jpg",
+              "created_at": "2026-04-19T08:36:00.972819",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/255b861569c758fa9e3e4f3e5705e721.jpg"
+            },
+            {
+              "uuid": "0fdbb0019c3b4fef",
+              "id": 5,
+              "text": "Сколько морских обитателей на экране?",
+              "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "correct": 2,
+              "explanation": "На картинке 8 животных: рыба меч, омар, рыба-бабочка, китовая акула, дельфин, краб, опять китовая акула и медуза. Молодец!",
+              "documentRef": "Урок 2: Счет до 10",
+              "category": "Счет 6-10",
+              "image_url": "https://raw.githubusercontent.com/YasinNaseri2020/workshop-images/main/workshop_v1/images/2_5.jpg",
+              "created_at": "2026-04-19T08:36:00.972869",
+              "version": 1,
+              "image_local": "file:///data/user/10/host.exp.exponent/cache/images/9ad89638922918435e12027344dacf81.jpg"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "userData": {
+    "question_stats": [
+      {
+        "question_uuid": "c305c7764520ae9d",
+        "correct": 0,
+        "wrong": 1,
+        "hint_count": 0,
+        "last_attempt": 1776673559092
+      },
+      {
+        "question_uuid": "ba3031d9074822d0",
+        "correct": 1,
+        "wrong": 2,
+        "hint_count": 0,
+        "last_attempt": 1776676921350
+      },
+      {
+        "question_uuid": "6d91fe03228d284f",
+        "correct": 0,
+        "wrong": 3,
+        "hint_count": 0,
+        "last_attempt": 1776678345369
+      },
+      {
+        "question_uuid": "37648ec9014abc02",
+        "correct": 0,
+        "wrong": 1,
+        "hint_count": 0,
+        "last_attempt": 1776678467300
+      },
+      {
+        "question_uuid": "9688b930c1e84f1d",
+        "correct": 0,
+        "wrong": 1,
+        "hint_count": 0,
+        "last_attempt": 1776678469618
+      },
+      {
+        "question_uuid": "460637497ea53a25",
+        "correct": 0,
+        "wrong": 1,
+        "hint_count": 0,
+        "last_attempt": 1776678477903
+      },
+      {
+        "question_uuid": "0fdbb0019c3b4fef",
+        "correct": 1,
+        "wrong": 0,
+        "hint_count": 0,
+        "last_attempt": 1776678486919
+      },
+      {
+        "question_uuid": "5df7f5b7eb525c48",
+        "correct": 2,
+        "wrong": 4,
+        "hint_count": 1,
+        "last_attempt": 1776678342612
+      }
+    ],
+    "favorites": [
+      "5df7f5b7eb525c48"
+    ],
+    "ticket_progress": [],
+    "ticket_results": [],
+    "topic_progress": [],
+    "topic_results": []
+  },
+  "settings": {
+    "fontSize": 16,
+    "theme": "light"
+  }
+}
